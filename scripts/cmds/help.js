@@ -1,1 +1,409 @@
-const _0x2918b8=_0x3492;function _0x57f2(){const _0xd0d499=['config','s\x20\x0a├─❯\x20Author:\x20','https://i.imgur.com/7I0lQf6.jpeg','cmds','61537146ivgAes','exports','countDown','author','\x20\x0a├─❯\x20Description:\x20','Command\x20\x22','18BGEDYJ','replace','threadID','role','pageNotFound','see\x20the\x20available\x20commands','•】\x20𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂❖\x0a│\x0a│✿𝙱𝙾𝚃-𝙾𝚆𝙽𝙴𝚁:\x20𝗔𝗺𝗶𝗻𝘂𝗹\x20𝗦𝗼𝗿𝗱𝗮𝗿❖\x0a│\x0a│https://www.facebook.com/br4nd.abir.your.next.bf.jan\x0a│\x0a│m.me/100071880593545\x0a│\x0a╚═\x20✰\x20═\x20✮.·:·.✮\x20═\x20✰\x20═╝\x0a\x0a▬▬▬▬▬▬▬▬▬▬▬▬\x0a\x0a','\x0a╔═➳➳➳➳➳⋇⊶┫\x0a║\x0a╚═❯❯','help.js','version','No\x20description','keys','category','\x20\x0a├─❯\x20Time\x20per\x20command:\x20','•𝙽𝙾-𝙲𝙺-𝙵𝚄𝙼𝙳•','aliases','\x0a\x0a▬▬▬▬▬▬▬▬▬▬▬▬\x0a\x0a╔═\x20✰\x20═\x20✮.·:·.✮\x20═\x20✰\x20═╗\x0a│\x0a│✿𝚃𝙾𝚃𝙰𝙻:\x20【•','2\x20•𝙾𝙽𝙻𝙸-𝙱𝙾𝚃-𝙰𝙳𝙼𝙸𝙽•','0\x20•𝚄𝚂𝙴𝚁•','longDescription','1\x20•𝙱𝙾𝚇-𝙰𝙳𝙼𝙸𝙽•','name','12110656RvVaDW','GoatBot','137326NKKCmb','Hello\x20World!','\x20✧𝙲𝙼𝙳-𝙽𝙰𝙼𝙴✧【•','\x20\x0a├─❯\x20Other\x20names\x20in\x20your\x20group:\x20Version:\x20','path','7808334xdXMKQ','183FaPZzC','getStreamFromURL','7315230XbMOyF','join','▬▬▬▬▬▬▬▬▬▬▬▬\x0a╔╝❮❮𝐀𝐌𝐈𝐍𝐔𝐋-𝐗-𝐁𝐎𝐓❯❯╚╗\x0a\x0a\x20╔═════•|\x20💛\x20|•═════╗\x0a\x20║║𝗔𝗠𝗜𝗡𝗨𝗟-𝗕𝗢𝗧-𝗖𝗠𝗗-𝗟𝗜𝗦𝗧║║\x0a\x20╚═════•|\x20💛\x20|•═════╝\x0a▬▬▬▬▬▬▬▬▬▬▬▬\x0a\x0a','get','113644QRiOYP','{pn}\x20<page\x20number>\x20|\x20<command\x20name>]','help','10vaEWeO','promises','length','•𝙰𝚄𝚃𝙷𝙾𝚁-𝙽𝙾𝚃-𝙵𝚄𝙽𝙳•','5XAKylJ','\x22\x20not\x20found.','Do\x20not\x20have','reply','3851911ZeINEo','\x0a╰──〔𝐀𝐌𝐈𝐍𝐔𝐋-𝐗-𝐁𝐎𝐓〕──╯','utils','1.0','language'];_0x57f2=function(){return _0xd0d499;};return _0x57f2();}(function(_0x3bdb8a,_0x4f2f3c){const _0x3015e6=_0x3492,_0x329c02=_0x3bdb8a();while(!![]){try{const _0x32c485=parseInt(_0x3015e6(0x225))/0x1*(-parseInt(_0x3015e6(0x216))/0x2)+-parseInt(_0x3015e6(0x21c))/0x3*(parseInt(_0x3015e6(0x222))/0x4)+-parseInt(_0x3015e6(0x229))/0x5*(-parseInt(_0x3015e6(0x21b))/0x6)+-parseInt(_0x3015e6(0x1ef))/0x7+-parseInt(_0x3015e6(0x214))/0x8+parseInt(_0x3015e6(0x1fe))/0x9*(-parseInt(_0x3015e6(0x21e))/0xa)+parseInt(_0x3015e6(0x1f8))/0xb;if(_0x32c485===_0x4f2f3c)break;else _0x329c02['push'](_0x329c02['shift']());}catch(_0x20ee08){_0x329c02['push'](_0x329c02['shift']());}}}(_0x57f2,0xe7a57));function hi(){const _0x54a60c=_0x3492;console['log'](_0x54a60c(0x217));}hi();const fs=require('fs'),path=require(_0x2918b8(0x21a)),{getPrefix}=global[_0x2918b8(0x1f1)];module[_0x2918b8(0x1f9)]={'config':{'name':_0x2918b8(0x224),'version':'1.0','author':'𝗔𝗺𝗶𝗻𝘂𝗹\x20𝗦𝗼𝗿𝗱𝗮𝗿','role':0x0,'category':_0x2918b8(0x224),'shortDescription':_0x2918b8(0x203),'guide':{'en':_0x2918b8(0x223)}},'onStart':async function({api:_0x532f81,message:_0x338112,args:_0x5998ab,event:_0xe32e35,threadsData:_0x3b9ef3,getLang:_0x19fbe9}){const _0xcf7274=_0x2918b8,_0x29ad0d=await _0x3b9ef3[_0xcf7274(0x221)](_0xe32e35[_0xcf7274(0x200)],'data.lang')||global[_0xcf7274(0x215)][_0xcf7274(0x1f4)][_0xcf7274(0x1f3)],{threadID:_0x1aaa48}=_0xe32e35,_0x265373=getPrefix(_0x1aaa48),_0x3423d4=await getCommandsFromDir(path['join'](__dirname,'..',_0xcf7274(0x1f7))),_0x1bc027=Object[_0xcf7274(0x209)](_0x3423d4);if(_0x5998ab[0x0]&&isNaN(parseInt(_0x5998ab[0x0]))){const _0x1b6c0f=_0x5998ab[0x0],_0x4d7fb2=_0x3423d4[_0x1b6c0f];if(!_0x4d7fb2)await _0x338112[_0xcf7274(0x1ee)](_0xcf7274(0x1fd)+_0x1b6c0f+_0xcf7274(0x22a));else{const _0x415de3=_0x4d7fb2[_0xcf7274(0x1f4)],_0x4c4a88=_0x1aa563(_0x415de3[_0xcf7274(0x201)]),_0x2b7440=_0x415de3[_0xcf7274(0x1fb)]||_0xcf7274(0x228),_0x477e8f=_0x415de3['longDescription']?_0x415de3[_0xcf7274(0x211)]['en']||'No\x20description':_0xcf7274(0x208),_0x11d62d=_0x415de3['guide']?.['en']||_0xcf7274(0x20c),_0x2cc515=_0x11d62d[_0xcf7274(0x1ff)](/{p}/g,_0x265373)[_0xcf7274(0x1ff)](/{n}/g,_0x415de3[_0xcf7274(0x213)]),_0x51ec21='╭──〔𝙰𝙻𝙻-𝙲𝙼𝙳-𝙲𝙺〕──╮\x0a├─❯\x20Name:\x20'+_0x415de3[_0xcf7274(0x213)]+_0xcf7274(0x1fc)+_0x477e8f+'\x20\x0a├─❯\x20Other\x20names:\x20'+(_0x415de3[_0xcf7274(0x20d)]?_0x415de3[_0xcf7274(0x20d)][_0xcf7274(0x21f)](',\x20'):_0xcf7274(0x22b))+_0xcf7274(0x219)+(_0x415de3[_0xcf7274(0x207)]||_0xcf7274(0x1f2))+'\x20\x0a├─❯\x20Role:\x20'+_0x4c4a88+_0xcf7274(0x20b)+(_0x415de3[_0xcf7274(0x1fa)]||0x1)+_0xcf7274(0x1f5)+_0x2b7440+'\x20\x0a├─❯\x20Usage\x20'+_0x2cc515+_0xcf7274(0x1f0);await _0x338112[_0xcf7274(0x1ee)]({'body':_0x51ec21,'attachment':await global[_0xcf7274(0x1f1)][_0xcf7274(0x21d)]('https://i.imgur.com/7I0lQf6.jpeg')});}function _0x1aa563(_0x4fd467){const _0x504f1c=_0xcf7274;switch(_0x4fd467){case 0x0:return _0x504f1c(0x210);case 0x1:return _0x504f1c(0x212);case 0x2:return _0x504f1c(0x20f);default:return'•𝙽𝙾𝚃-𝙵𝚄𝙽𝙳•';}}}else{const _0x3a8b54=parseInt(_0x5998ab[0x0])||0x1,_0x110dff=0xa,_0x2de6ae=Math['ceil'](_0x1bc027[_0xcf7274(0x227)]/_0x110dff);if(_0x3a8b54<0x1||_0x3a8b54>_0x2de6ae)return _0x338112['reply'](_0x19fbe9(_0xcf7274(0x202),_0x3a8b54));let _0x35e494=_0xcf7274(0x220),_0x346c21='',_0x63382f=(_0x3a8b54-0x1)*_0x110dff,_0x3813ca=(_0x3a8b54-0x1)*_0x110dff+0x1;for(let _0x4599ed=0x0;_0x4599ed<_0x110dff&&_0x63382f<_0x1bc027[_0xcf7274(0x227)];_0x4599ed++){const _0x38606c=_0x1bc027[_0x63382f],_0x25189e=_0x3423d4[_0x38606c];_0x25189e[_0xcf7274(0x1f4)][_0xcf7274(0x20a)]!==_0x346c21&&(_0x346c21=_0x25189e[_0xcf7274(0x1f4)][_0xcf7274(0x20a)],_0x35e494+=_0xcf7274(0x205)),_0x35e494+='【•'+_0x3813ca+(_0x3813ca<0xa?'\x20':'')+_0xcf7274(0x218)+_0x25189e['config'][_0xcf7274(0x213)]+'•】\x0a\x0a',_0x63382f++,_0x3813ca++;}_0x35e494+=_0xcf7274(0x20e)+global[_0xcf7274(0x215)]['commands']['size']+_0xcf7274(0x204),_0x338112['reply']({'body':_0x35e494,'attachment':await global[_0xcf7274(0x1f1)][_0xcf7274(0x21d)](_0xcf7274(0x1f6))});}}};function _0x3492(_0x29bf24,_0x533b90){const _0x57f235=_0x57f2();return _0x3492=function(_0x3492e0,_0x31cecd){_0x3492e0=_0x3492e0-0x1ee;let _0xe4063e=_0x57f235[_0x3492e0];return _0xe4063e;},_0x3492(_0x29bf24,_0x533b90);}async function getCommandsFromDir(_0x3147bd){const _0x3ee270=_0x2918b8,_0x25d04c={},_0x11d135=await fs[_0x3ee270(0x226)]['readdir'](_0x3147bd);for(const _0x1edaa3 of _0x11d135){if(_0x1edaa3['endsWith']('.js')&&_0x1edaa3!==_0x3ee270(0x206)){const _0x44cc58=path[_0x3ee270(0x21f)](_0x3147bd,_0x1edaa3),_0x266ba9=require(_0x44cc58);_0x25d04c[_0x266ba9[_0x3ee270(0x1f4)]['name']]=_0x266ba9;}}return _0x25d04c;}
+const fs = require("fs-extra");
+const axios = require("axios");
+const path = require("path");
+const { getPrefix } = global.utils;
+const { commands, aliases } = global.GoatBot;
+const doNotDelete = "[ 🐐 | Goat Bot V2 ]";
+/**
+* @author NTKhang
+* @author: do not delete it
+* @message if you delete or edit it you will get a global ban
+*/
+
+module.exports = {
+	config: {
+		name: "help",
+		version: "1.21",
+		author: "NTKhang",
+		countDown: 5,
+		role: 0,
+		description: {
+			vi: "Xem cách sử dụng của các lệnh",
+			en: "View command usage"
+		},
+		category: "info",
+		guide: {
+			vi: "   {pn} [để trống | <số trang> | <tên lệnh>]"
+				+ "\n   {pn} <command name> [-u | usage | -g | guide]: chỉ hiển thị phần hướng dẫn sử dụng lệnh"
+				+ "\n   {pn} <command name> [-i | info]: chỉ hiển thị phần thông tin về lệnh"
+				+ "\n   {pn} <command name> [-r | role]: chỉ hiển thị phần quyền hạn của lệnh"
+				+ "\n   {pn} <command name> [-a | alias]: chỉ hiển thị phần tên viết tắt của lệnh",
+			en: "{pn} [empty | <page number> | <command name>]"
+				+ "\n   {pn} <command name> [-u | usage | -g | guide]: only show command usage"
+				+ "\n   {pn} <command name> [-i | info]: only show command info"
+				+ "\n   {pn} <command name> [-r | role]: only show command role"
+				+ "\n   {pn} <command name> [-a | alias]: only show command alias"
+		},
+		priority: 1
+	},
+
+	langs: {
+		vi: {
+			help: "╭─────────────⭓"
+				+ "\n%1"
+				+ "\n├─────⭔"
+				+ "\n│ Trang [ %2/%3 ]"
+				+ "\n│ Hiện tại bot có %4 lệnh có thể sử dụng"
+				+ "\n│ » Gõ %5help <số trang> để xem danh sách các lệnh"
+				+ "\n│ » Gõ %5help để xem chi tiết cách sử dụng lệnh đó"
+				+ "\n├────────⭔"
+				+ "\n│ %6"
+				+ "\n╰─────────────⭓",
+			help2: "%1├───────⭔"
+				+ "\n│ » Hiện tại bot có %2 lệnh có thể sử dụng"
+				+ "\n│ » Gõ %3help <tên lệnh> để xem chi tiết cách sử dụng lệnh đó"
+				+ "\n│ %4"
+				+ "\n╰─────────────⭓",
+			commandNotFound: "Lệnh \"%1\" không tồn tại",
+			getInfoCommand: "╭── NAME ────⭓"
+				+ "\n│ %1"
+				+ "\n├── INFO"
+				+ "\n│ Mô tả: %2"
+				+ "\n│ Các tên gọi khác: %3"
+				+ "\n│ Các tên gọi khác trong nhóm bạn: %4"
+				+ "\n│ Version: %5"
+				+ "\n│ Role: %6"
+				+ "\n│ Thời gian mỗi lần dùng lệnh: %7s"
+				+ "\n│ Author: %8"
+				+ "\n├── USAGE"
+				+ "\n│%9"
+				+ "\n├── NOTES"
+				+ "\n│ Nội dung bên trong <XXXXX> là có thể thay đổi"
+				+ "\n│ Nội dung bên trong [a|b|c] là a hoặc b hoặc c"
+				+ "\n╰──────⭔",
+			onlyInfo: "╭── INFO ────⭓"
+				+ "\n│ Tên lệnh: %1"
+				+ "\n│ Mô tả: %2"
+				+ "\n│ Các tên gọi khác: %3"
+				+ "\n│ Các tên gọi khác trong nhóm bạn: %4"
+				+ "\n│ Version: %5"
+				+ "\n│ Role: %6"
+				+ "\n│ Thời gian mỗi lần dùng lệnh: %7s"
+				+ "\n│ Author: %8"
+				+ "\n╰─────────────⭓",
+			onlyUsage: "╭── USAGE ────⭓"
+				+ "\n│%1"
+				+ "\n╰─────────────⭓",
+			onlyAlias: "╭── ALIAS ────⭓"
+				+ "\n│ Các tên gọi khác: %1"
+				+ "\n│ Các tên gọi khác trong nhóm bạn: %2"
+				+ "\n╰─────────────⭓",
+			onlyRole: "╭── ROLE ────⭓"
+				+ "\n│%1"
+				+ "\n╰─────────────⭓",
+			doNotHave: "Không có",
+			roleText0: "0 (Tất cả người dùng)",
+			roleText1: "1 (Quản trị viên nhóm)",
+			roleText2: "2 (Admin bot)",
+			roleText0setRole: "0 (set role, tất cả người dùng)",
+			roleText1setRole: "1 (set role, quản trị viên nhóm)",
+			pageNotFound: "Trang %1 không tồn tại"
+		},
+		en: {
+			help: "╭─────────────⭓"
+				+ "\n%1"
+				+ "\n├─────⭔"
+				+ "\n│ Page [ %2/%3 ]"
+				+ "\n│ Currently, the bot has %4 commands that can be used"
+				+ "\n│ » Type %5help <page> to view the command list"
+				+ "\n│ » Type %5help to view the details of how to use that command"
+				+ "\n├────────⭔"
+				+ "\n│ %6"
+				+ "\n╰─────────────⭓",
+			help2: "%1├───────⭔"
+				+ "\n│ » Currently, the bot has %2 commands that can be used"
+				+ "\n│ » Type %3help <command name> to view the details of how to use that command"
+				+ "\n│ %4"
+				+ "\n╰─────────────⭓",
+			commandNotFound: "Command \"%1\" does not exist",
+			getInfoCommand: "╭── NAME ────⭓"
+				+ "\n│ %1"
+				+ "\n├── INFO"
+				+ "\n│ Description: %2"
+				+ "\n│ Other names: %3"
+				+ "\n│ Other names in your group: %4"
+				+ "\n│ Version: %5"
+				+ "\n│ Role: %6"
+				+ "\n│ Time per command: %7s"
+				+ "\n│ Author: %8"
+				+ "\n├── USAGE"
+				+ "\n│%9"
+				+ "\n├── NOTES"
+				+ "\n│ The content inside <XXXXX> can be changed"
+				+ "\n│ The content inside [a|b|c] is a or b or c"
+				+ "\n╰──────⭔",
+			onlyInfo: "╭── INFO ────⭓"
+				+ "\n│ Command name: %1"
+				+ "\n│ Description: %2"
+				+ "\n│ Other names: %3"
+				+ "\n│ Other names in your group: %4"
+				+ "\n│ Version: %5"
+				+ "\n│ Role: %6"
+				+ "\n│ Time per command: %7s"
+				+ "\n│ Author: %8"
+				+ "\n╰─────────────⭓",
+			onlyUsage: "╭── USAGE ────⭓"
+				+ "\n│%1"
+				+ "\n╰─────────────⭓",
+			onlyAlias: "╭── ALIAS ────⭓"
+				+ "\n│ Other names: %1"
+				+ "\n│ Other names in your group: %2"
+				+ "\n╰─────────────⭓",
+			onlyRole: "╭── ROLE ────⭓"
+				+ "\n│%1"
+				+ "\n╰─────────────⭓",
+			doNotHave: "Do not have",
+			roleText0: "0 (All users)",
+			roleText1: "1 (Group administrators)",
+			roleText2: "2 (Admin bot)",
+			roleText0setRole: "0 (set role, all users)",
+			roleText1setRole: "1 (set role, group administrators)",
+			pageNotFound: "Page %1 does not exist"
+		}
+	},
+
+	onStart: async function ({ message, args, event, threadsData, getLang, role, globalData }) {
+		const langCode = await threadsData.get(event.threadID, "data.lang") || global.GoatBot.config.language;
+		let customLang = {};
+		const pathCustomLang = path.normalize(`${process.cwd()}/languages/cmds/${langCode}.js`);
+		if (fs.existsSync(pathCustomLang))
+			customLang = require(pathCustomLang);
+
+		const { threadID } = event;
+		const threadData = await threadsData.get(threadID);
+		const prefix = getPrefix(threadID);
+		let sortHelp = threadData.settings.sortHelp || "name";
+		if (!["category", "name"].includes(sortHelp))
+			sortHelp = "name";
+		const commandName = (args[0] || "").toLowerCase();
+		let command = commands.get(commandName) || commands.get(aliases.get(commandName));
+		const aliasesData = threadData.data.aliases || {
+			// uid: ["userid", "id"]
+		};
+		if (!command) {
+			for (const cmdName in aliasesData) {
+				if (aliasesData[cmdName].includes(commandName)) {
+					command = commands.get(cmdName);
+					break;
+				}
+			}
+		}
+
+		if (!command) {
+			const globalAliasesData = await globalData.get('setalias', 'data', []);
+			// [{
+			// 	commandName: "uid",
+			// 	aliases: ["uid", "id]
+			// }]
+			for (const item of globalAliasesData) {
+				if (item.aliases.includes(commandName)) {
+					command = commands.get(item.commandName);
+					break;
+				}
+			}
+		}
+
+		// ———————————————— LIST ALL COMMAND ——————————————— //
+		if (!command && !args[0] || !isNaN(args[0])) {
+			const arrayInfo = [];
+			let msg = "";
+			if (sortHelp == "name") {
+				const page = parseInt(args[0]) || 1;
+				const numberOfOnePage = 30;
+				for (const [name, value] of commands) {
+					if (value.config.role > 1 && role < value.config.role)
+						continue;
+					let describe = name;
+					let description;
+					const descriptionCustomLang = customLang[name]?.description;
+					if (descriptionCustomLang != undefined)
+						description = checkLangObject(descriptionCustomLang, langCode);
+					else if (value.config.description)
+						description = checkLangObject(value.config.description, langCode);
+					if (description)
+						describe += `: ${cropContent(description.charAt(0).toUpperCase() + description.slice(1), 50)}`;
+					arrayInfo.push({
+						data: describe,
+						priority: value.priority || 0
+					});
+				}
+
+				arrayInfo.sort((a, b) => a.data - b.data); // sort by name
+				arrayInfo.sort((a, b) => a.priority > b.priority ? -1 : 1); // sort by priority
+				const { allPage, totalPage } = global.utils.splitPage(arrayInfo, numberOfOnePage);
+				if (page < 1 || page > totalPage)
+					return message.reply(getLang("pageNotFound", page));
+
+				const returnArray = allPage[page - 1] || [];
+				const startNumber = (page - 1) * numberOfOnePage + 1;
+				msg += (returnArray || []).reduce((text, item, index) => text += `│ ${index + startNumber}${index + startNumber < 10 ? " " : ""}. ${item.data}\n`, '').slice(0, -1);
+				await message.reply(getLang("help", msg, page, totalPage, commands.size, prefix, doNotDelete));
+			}
+			else if (sortHelp == "category") {
+				for (const [, value] of commands) {
+					if (value.config.role > 1 && role < value.config.role)
+						continue; // if role of command > role of user => skip
+					const indexCategory = arrayInfo.findIndex(item => (item.category || "NO CATEGORY") == (value.config.category?.toLowerCase() || "NO CATEGORY"));
+
+					if (indexCategory != -1)
+						arrayInfo[indexCategory].names.push(value.config.name);
+					else
+						arrayInfo.push({
+							category: value.config.category.toLowerCase(),
+							names: [value.config.name]
+						});
+				}
+				arrayInfo.sort((a, b) => (a.category < b.category ? -1 : 1));
+				arrayInfo.forEach((data, index) => {
+					const categoryUpcase = `${index == 0 ? `╭` : `├`}─── ${data.category.toUpperCase()} ${index == 0 ? "⭓" : "⭔"}`;
+					data.names = data.names.sort().map(item => item = `│ ${item}`);
+					msg += `${categoryUpcase}\n${data.names.join("\n")}\n`;
+				});
+				message.reply(getLang("help2", msg, commands.size, prefix, doNotDelete));
+			}
+		}
+		// ———————————— COMMAND DOES NOT EXIST ———————————— //
+		else if (!command && args[0]) {
+			return message.reply(getLang("commandNotFound", args[0]));
+		}
+		// ————————————————— INFO COMMAND ————————————————— //
+		else {
+			const formSendMessage = {};
+			const configCommand = command.config;
+
+			let guide = configCommand.guide?.[langCode] || configCommand.guide?.["en"];
+			if (guide == undefined)
+				guide = customLang[configCommand.name]?.guide?.[langCode] || customLang[configCommand.name]?.guide?.["en"];
+
+			guide = guide || {
+				body: ""
+			};
+			if (typeof guide == "string")
+				guide = { body: guide };
+			const guideBody = guide.body
+				.replace(/\{prefix\}|\{p\}/g, prefix)
+				.replace(/\{name\}|\{n\}/g, configCommand.name)
+				.replace(/\{pn\}/g, prefix + configCommand.name);
+
+			const aliasesString = configCommand.aliases ? configCommand.aliases.join(", ") : getLang("doNotHave");
+			const aliasesThisGroup = threadData.data.aliases ? (threadData.data.aliases[configCommand.name] || []).join(", ") : getLang("doNotHave");
+
+			let roleOfCommand = configCommand.role;
+			let roleIsSet = false;
+			if (threadData.data.setRole?.[configCommand.name]) {
+				roleOfCommand = threadData.data.setRole[configCommand.name];
+				roleIsSet = true;
+			}
+
+			const roleText = roleOfCommand == 0 ?
+				(roleIsSet ? getLang("roleText0setRole") : getLang("roleText0")) :
+				roleOfCommand == 1 ?
+					(roleIsSet ? getLang("roleText1setRole") : getLang("roleText1")) :
+					getLang("roleText2");
+
+			const author = configCommand.author;
+			const descriptionCustomLang = customLang[configCommand.name]?.description;
+			let description = checkLangObject(configCommand.description, langCode);
+			if (description == undefined)
+				if (descriptionCustomLang != undefined)
+					description = checkLangObject(descriptionCustomLang, langCode);
+				else
+					description = getLang("doNotHave");
+
+			let sendWithAttachment = false; // check subcommand need send with attachment or not
+
+			if (args[1]?.match(/^-g|guide|-u|usage$/)) {
+				formSendMessage.body = getLang("onlyUsage", guideBody.split("\n").join("\n│"));
+				sendWithAttachment = true;
+			}
+			else if (args[1]?.match(/^-a|alias|aliase|aliases$/))
+				formSendMessage.body = getLang("onlyAlias", aliasesString, aliasesThisGroup);
+			else if (args[1]?.match(/^-r|role$/))
+				formSendMessage.body = getLang("onlyRole", roleText);
+			else if (args[1]?.match(/^-i|info$/))
+				formSendMessage.body = getLang(
+					"onlyInfo",
+					configCommand.name,
+					description,
+					aliasesString,
+					aliasesThisGroup,
+					configCommand.version,
+					roleText,
+					configCommand.countDown || 1,
+					author || ""
+				);
+			else {
+				formSendMessage.body = getLang(
+					"getInfoCommand",
+					configCommand.name,
+					description,
+					aliasesString,
+					aliasesThisGroup,
+					configCommand.version,
+					roleText,
+					configCommand.countDown || 1,
+					author || "",
+					guideBody.split("\n").join("\n│")
+				);
+				sendWithAttachment = true;
+			}
+
+			if (sendWithAttachment && guide.attachment) {
+				if (typeof guide.attachment == "object" && !Array.isArray(guide.attachment)) {
+					const promises = [];
+					formSendMessage.attachment = [];
+
+					for (const keyPathFile in guide.attachment) {
+						const pathFile = path.normalize(keyPathFile);
+
+						if (!fs.existsSync(pathFile)) {
+							const cutDirPath = path.dirname(pathFile).split(path.sep);
+							for (let i = 0; i < cutDirPath.length; i++) {
+								const pathCheck = `${cutDirPath.slice(0, i + 1).join(path.sep)}${path.sep}`; // create path
+								if (!fs.existsSync(pathCheck))
+									fs.mkdirSync(pathCheck); // create folder
+							}
+							const getFilePromise = axios.get(guide.attachment[keyPathFile], { responseType: 'arraybuffer' })
+								.then(response => {
+									fs.writeFileSync(pathFile, Buffer.from(response.data));
+								});
+
+							promises.push({
+								pathFile,
+								getFilePromise
+							});
+						}
+						else {
+							promises.push({
+								pathFile,
+								getFilePromise: Promise.resolve()
+							});
+						}
+					}
+
+					await Promise.all(promises.map(item => item.getFilePromise));
+					for (const item of promises)
+						formSendMessage.attachment.push(fs.createReadStream(item.pathFile));
+				}
+			}
+
+			return message.reply(formSendMessage);
+		}
+	}
+};
+
+function checkLangObject(data, langCode) {
+	if (typeof data == "string")
+		return data;
+	if (typeof data == "object" && !Array.isArray(data))
+		return data[langCode] || data.en || undefined;
+	return undefined;
+}
+
+function cropContent(content, max) {
+	if (content.length > max) {
+		content = content.slice(0, max - 3);
+		content = content + "...";
+	}
+	return content;
+}
