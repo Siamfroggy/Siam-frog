@@ -174,38 +174,4 @@
         "sameSite": "no_restriction",
         "session": false,
         "firstPartyDomain": "",
-        "partitionKey": null,
-        "expirationDate": 1764068260,
-        "storeId": null
-    },
-    {
-        "name": "wd",
-        "value": "420x891",
-        "domain": ".facebook.com",
-        "hostOnly": false,
-        "path": "/",
-        "secure": true,
-        "httpOnly": false,
-        "sameSite": "lax",
-        "session": false,
-        "firstPartyDomain": "",
-        "partitionKey": null,
-        "expirationDate": 1730113062,
-        "storeId": null
-    },
-    {
-        "name": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2650%3Btimestamp%3A1729508276",
-        "domain": ".facebook.com",
-        "hostOnly": false,
-        "path": "/",
-        "secure": true,
-        "httpOnly": false,
-        "sameSite": "no_restriction",
-        "session": false,
-        "firstPartyDomain": "",
-        "partitionKey": null,
-        "expirationDate": 1737284276,
-        "storeId": null
-    }
-]
+        "partitionKey": null
